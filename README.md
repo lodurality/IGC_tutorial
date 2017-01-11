@@ -6,9 +6,8 @@ How to run the code:
 1. Install [anaconda](https://www.continuum.io/downloads)
 
 2. Install seaborn
-        ```
-        pip install seaborn
-        ```
+        `pip install seaborn`
+        
 3. If you want deep learning part install theano/tensorflow
         
         `pip install theano/tensorflow/tensorflow-gpu`
