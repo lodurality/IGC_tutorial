@@ -1,7 +1,7 @@
 # IGC_tutorial
 IGC python tutorial
 
-How to run the code:
+How to run the code (tested on Linux, should work on OS X and maybe Windows machines):
 
 1. Install [anaconda](https://www.continuum.io/downloads)
 
