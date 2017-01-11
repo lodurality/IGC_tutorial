@@ -3,14 +3,14 @@ IGC python tutorial
 
 How to run the code:
 
-1. Install [anaconda](https://www.continuum.io/downloads)
-2. Install seaborn
+ 1. Install [anaconda](https://www.continuum.io/downloads)
+ 2. Install seaborn
 ```
 pip install seaborn
 ```
 If you want deep learning part
 
-3. Install theano/tensorflow
+ 3. Install theano/tensorflow
 ```
 pip install theano/tensorflow
 ```
@@ -20,7 +20,7 @@ pip install tensorflow-gpu
 ```
 
 
-4. Install keras
+ 4. Install keras
 ```
 pip install keras
 ```
