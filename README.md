@@ -11,7 +11,7 @@ How to run the code:
 3. If you want deep learning part install theano/tensorflow and keras
         
         pip install theano/tensorflow/tensorflow-gpu
-        pip install keras`
+        pip install keras
         
 
 4. Download or clone this repository
