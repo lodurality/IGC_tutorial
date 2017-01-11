@@ -17,17 +17,13 @@ How to run the code:
 
 5. Download or clone this repository
         
-        ```
         git clone https://github.com/lodurality/IGC_tutorial.git
-        ```
-
+        
 6. Run jupyter notebook from directory you downladed this repository to
 
-        ```
         cd DIR_PATH
         jupyter notebook
-        ```
-
+        
 7. If everything is okay, your browser will open jupyter interface
 
 8. Run IGC_python.ipynb
