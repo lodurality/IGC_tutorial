@@ -8,4 +8,6 @@ How to run the code:
 
 If you want deep learning part
 
-3. Install theanofd/
+3. Install theano/tensorflow
+4. Install keras
+
