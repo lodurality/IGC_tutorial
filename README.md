@@ -13,7 +13,7 @@ How to run the code:
         `pip install theano/tensorflow/tensorflow-gpu`
 
 4. Install keras
-        pip install keras
+        `pip install keras`
         
 
 5. Download or clone this repository
