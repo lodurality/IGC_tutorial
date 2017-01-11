@@ -2,13 +2,13 @@
 IGC python tutorial
 
 How to run the code:
+
 1. Install [anaconda](https://www.continuum.io/downloads)
 
 2. Install seaborn
     ```
     pip install seaborn
     ```
-    If you want deep learning part
 
 3. If you want deep learning part install theano/tensorflow
     ```
